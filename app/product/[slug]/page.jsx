@@ -1,8 +1,7 @@
 // import AddToBag from "@/app/components/AddToBag";
 // import CheckoutNow from "@/app/components/CheckoutNow";
 import AddToBag from "@/app/components/AddToBag";
-import CheckOutNow from "@/app/components/CheckOutNow";
-import ImageGallery from "@/app/components/ImageGallery";
+import ImageGallery from "@/app/components/Imagegallery";
 import { client } from "@/app/lib/sanity";
 import { Button } from "@/components/ui/button";
 import { Star, Truck } from "lucide-react";
